@@ -10,12 +10,19 @@
             </ProjectSettingsEntry>
           </value>
         </entry>
+        <entry key="TwitterDataAnalysis">
+          <value>
+            <ProjectSettingsEntry>
+              <option name="playDistrPath" value="$USER_HOME$/.ivy2/cache/com.typesafe.play/play_2.10/jars/play_2.10-2.2.6.jar" />
+            </ProjectSettingsEntry>
+          </value>
+        </entry>
         <entry key="datafetch">
           <value>
             <ProjectSettingsEntry>
               <option name="version" value="2.2.6" />
-              <option name="sourceDir" value="$PROJECT_DIR$/datafetch/app" />
-              <option name="confDir" value="$PROJECT_DIR$/datafetch/conf" />
+              <option name="sourceDir" value="$PROJECT_DIR$/datafetch/conf" />
+              <option name="confDir" value="$PROJECT_DIR$/datafetch/app" />
               <option name="routesImports">
                 <list>
                   <option value="play.libs.F" />
